@@ -10,6 +10,9 @@ We do not collect any personal information from users of the App. We may collect
 Third-Party Services
 The App may use third-party services such as Google Analytics to collect usage statistics. These services may collect information sent by your device, such as IP address or other device identifiers.
 
+Intellectual Property
+All the audio files and other assets used in the App are the intellectual property of Amahitamoyubuzima and are protected by copyright laws.
+
 Changes to This Privacy Policy
 We reserve the right to modify this Privacy Policy at any time. We encourage you to periodically review this page for the latest information on our privacy practices.
 
